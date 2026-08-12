@@ -1,0 +1,12 @@
+Mole-Mankou-Finance-Calculator/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── images/
+│   ├── logo.png
+│   ├── screenshot1.png
+│   └── screenshot2.jpg
+└── data/
+    └── loan_data.xlsx
