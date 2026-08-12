@@ -1,12 +1,20 @@
 Mole-Mankou-Finance-Calculator/
 │
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-├── images/
-│   ├── logo.png
-│   ├── screenshot1.png
-│   └── screenshot2.jpg
-└── data/
-    └── loan_data.xlsx
+├── index.html               # Main webpage
+├── style.css                # Styling
+├── script.js                # Loan calculator logic
+├── README.md                # Project documentation
+│
+├── images/                  # Branding and screenshots
+│   ├── logo.png             # Mole-Mankou Finance logo
+│   └── profile.png          # Business profile image
+│
+├── docs/                    # Business documents
+│   ├── Business-Profile.pdf # Mole-Mankou business profile (PDF)
+│   ├── Business-Profile.doc # Mole-Mankou business profile (Word)
+│   ├── Business-Plan.pdf    # Mole-Mankou business plan (PDF)
+│   └── Business-Plan.doc    # Mole-Mankou business plan (Word)
+│
+└── data/                    # Databases and sample data
+    ├── loan_data.xlsx       # Loan database file
+    └── customer_data.xlsx   # Optional customer database
