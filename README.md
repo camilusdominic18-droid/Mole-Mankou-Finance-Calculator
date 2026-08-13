@@ -137,3 +137,16 @@ This tool helps users calculate monthly loan repayments based on loan amount, in
 ---
 
 ## 📂 Project Structure
+## 📄 Business Documents
+- [Business Profile (PDF)](docs/Business-Profile.pdf)  
+- [Business Profile (DOC)](docs/Business-Profile.doc)  
+- [Business Plan (PDF)](docs/Business-Plan.pdf)  
+- [Business Plan (DOC)](docs/Business-Plan.doc)
+
+## 📊 Databases
+- [Loan Database](data/loan_data.xlsx)  
+- [Customer Database](data/customer_data.xlsx)
+
+## 📸 Logo & Screenshots
+![Mole-Mankou Finance Logo](images/logo.png)  
+![Business Profile Image](images/profile.png)
